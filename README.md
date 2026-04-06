@@ -26,8 +26,10 @@
 ---
 
 ## 📂 Projects
-- 🛒 Amazon Clone (HTML + CSS)
-- 🎮 Rock Paper Scissors Game (JavaScript)
+-   JARVIS - VOICE-ACTIVATED VIRTUAL ASSISTANT(Python)
+-   AUTO-REPLY AI CHATBOT (Python)
+-   Snake Water Gun Game. (Python)
+-   Circle Animation (HTML+CSS)
 - 📱 More projects coming soon...
 
 ---
