@@ -11,7 +11,11 @@
 - 🎯 Goal: Become a Full Stack Developer
 
 ---
-# 🌱 Currently learning: **Java, JavaScript**
+## 🌱 Currently learning: 
+- Java,
+- JavaScript
+- C
+- C++ with DSA
 ---
 
 ## 🛠️ Tech Stack
