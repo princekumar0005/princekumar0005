@@ -27,16 +27,9 @@
 
 ---
 
-## 📊 GitHub Stats
-![Prince's GitHub stats](https://github-readme-stats.vercel.app/api?username=princekumar0005&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=princekumar0005&layout=compact&theme=tokyonight)
-
----
-
 ## 🌐 Connect With Me
-- 💼 LinkedIn: (Add your link)
-- 📧 Email: (Add your email)
+- 💼 LinkedIn: (https://www.linkedin.com/in/prince-kumar-005988326?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- 📧 Email: (pk0834284@gmail.com)
 
 ---
 
