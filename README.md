@@ -7,10 +7,11 @@
 ## 🚀 About Me
 - 🎓 Currently pursuing BCA (IGNOU)
 - 💡 Interested in Web Development & Programming
-- 🌱 Currently learning: **Java, Python, JavaScript**
 - 🔥 Passionate about building projects and improving coding skills
 - 🎯 Goal: Become a Full Stack Developer
 
+---
+# 🌱 Currently learning: **Java, JavaScript**
 ---
 
 ## 🛠️ Tech Stack
