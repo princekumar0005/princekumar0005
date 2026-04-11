@@ -8,7 +8,7 @@
 - 🎓 Currently pursuing BCA (IGNOU)
 - 💡 Interested in Web Development & Programming
 - 🔥 Passionate about building projects and improving coding skills
-- 🎯 Goal: Become a Full Stack Developer
+- 🎯 Goal: Become a Software engineer 
 
 ---
 ## 🌱 Currently learning: 
